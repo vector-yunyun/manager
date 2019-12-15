@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [15/Dec/2019:15:37:12 +0800] "GET /addUser HTTP/1.1" 200 326 http-bio-9090-exec-1 2865
+0:0:0:0:0:0:0:1 - - [15/Dec/2019:15:37:12 +0800] "GET /favicon.ico HTTP/1.1" 404 997 http-bio-9090-exec-3 8
+0:0:0:0:0:0:0:1 - - [15/Dec/2019:15:37:44 +0800] "POST /user/addUser HTTP/1.1" 500 13766 http-bio-9090-exec-5 2520
+0:0:0:0:0:0:0:1 - - [15/Dec/2019:15:40:33 +0800] "GET /user/addUser HTTP/1.1" 500 13772 http-bio-9090-exec-1 2166
+0:0:0:0:0:0:0:1 - - [15/Dec/2019:15:40:43 +0800] "GET /addUser HTTP/1.1" 200 330 http-bio-9090-exec-3 1084
+0:0:0:0:0:0:0:1 - - [15/Dec/2019:15:42:25 +0800] "POST /user/addUser HTTP/1.1" 200 102 http-bio-9090-exec-6 379
